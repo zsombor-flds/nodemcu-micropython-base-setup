@@ -36,9 +36,9 @@ rshell -p /dev/tty.usbserial-14240
 - Run example(from rshell)
 
 ```
-cp /examples/example1 /pyboard
+cp /examples/blink /pyboard
 repl
-import example1
+import blink
 ```
 
 
